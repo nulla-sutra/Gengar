@@ -5,6 +5,7 @@
 #include "CoreMinimal.h"
 #include "GengarAbilityAvatarInterface.h"
 #include "Abilities/GameplayAbilityTypes.h"
+#include "Components/SkeletalMeshComponent.h"
 #include "GengarGameplayAbilityActorInfo.generated.h"
 
 /**
